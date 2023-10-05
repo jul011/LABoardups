@@ -1,0 +1,39 @@
+body::before
+{
+   display:block;
+   content: '';
+   height: 60px;
+}
+.blk-border
+{
+    border: 0px solid black;
+}
+.wht-border
+{
+    border: 0px solid white;
+    padding: 10px;
+}
+.wht-border2
+{
+    border: 0px solid white;
+    padding: 10px;
+}
+.cities
+{
+    height: auto;
+}
+
+.cardimg::before
+{
+   display:block;
+   content: '';
+   height: 40px;
+}
+.card-img
+{
+    
+}
+
+
+
+
